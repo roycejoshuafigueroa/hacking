@@ -9,3 +9,4 @@
 -  Bluetooth and RECONNAISSANCE
 -  ZIGBEE
 -  Deck
+-  Gathering Information via Satellite Imagery
