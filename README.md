@@ -1,4 +1,10 @@
-# Recipe’s & How To's for Hacking (Use at own risk)
+###  Recipes & How To's for hacking 
+-
+1. Windows OS
+2. Linux
+3. Web Applications
+4. Malware and Rootkits
+5. Mobile and Wireless 802.11 
 
 - INFORMATION GATHERING
 -  Hacking 802.11 Wireless Technology
@@ -10,3 +16,4 @@
 -  ZIGBEE
 -  Deck
 -  Gathering Information via Satellite Imagery
+More Infomration : TBA
