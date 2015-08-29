@@ -1,4 +1,4 @@
-# Recipe’s for Hacking (Use at own risk)
+# Recipe’s & How To's for Hacking (Use at own risk)
 
 - INFORMATION GATHERING
 -  Hacking 802.11 Wireless Technology
