@@ -1,5 +1,4 @@
-###  Recipes & How To's for hacking 
--
+###  Recipes & How To's for hacking (use at your own risk)
 1. Windows OS
 2. Linux
 3. Web Applications
