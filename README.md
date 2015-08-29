@@ -7,3 +7,5 @@
 -  Attacking WPA -Protected  802.11 Networks 
 -  Air gap
 -  Bluetooth and RECONNAISSANCE
+-  ZIGBEE
+-  Deck
